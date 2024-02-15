@@ -27,4 +27,4 @@
 ¡Si estás interesado en colaborar en algún proyecto o simplemente quieres decir hola, no dudes en ponerte en contacto conmigo!
 
 [![Correo Electrónico](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomasrom.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tu-perfil/](https://www.linkedin.com/in/tom%C3%A1s-alberto-romero-07b117212/))
+<a href="https://www.linkedin.com/in/tom%C3%A1s-alberto-romero-07b117212/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
