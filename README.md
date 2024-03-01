@@ -1,6 +1,6 @@
 # ¡Hola! Soy Tomás Romero
 
-¡Bienvenido a mi perfil de GitHub! Soy un apasionado desarrollador Full Stack con una sólida experiencia en una amplia gama de tecnologías de desarrollo web y bases de datos. Me encanta crear aplicaciones web innovadoras y resolver desafíos complejos.
+¡Bienvenido a mi perfil de GitHub! Soy un apasionado desarrollador Full Stack con experiencia en una amplia gama de tecnologías de desarrollo web y bases de datos. Me encanta crear aplicaciones web innovadoras y resolver desafíos complejos.
 
 ## 💻 Tecnologías que Manejo
 
