@@ -2,7 +2,7 @@
 
 ¡Bienvenido a mi perfil de GitHub! Soy un apasionado desarrollador Full Stack con experiencia en una amplia gama de tecnologías de desarrollo web y bases de datos.
 
-## 💻 Tecnologías que Manejo
+## 💻 Tecnologías
 
 ### Lenguajes
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
