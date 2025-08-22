@@ -15,6 +15,8 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
+### [![Codewars Badge](https://www.codewars.com/users/tomasrome/badges/large)](https://www.codewars.com/users/tomasrome)
+
 ## 📫 Contáctame
 
 ¡Si estás interesado en colaborar en algún proyecto o simplemente queres saludar, no dudes en ponerte en contacto conmigo!
