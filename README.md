@@ -3,6 +3,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ### Frameworks y Bibliotecas
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -19,7 +20,7 @@
 
 ## 📫 Contáctame
 
-¡Si estás interesado en colaborar en algún proyecto o simplemente queres saludar, no dudes en ponerte en contacto conmigo!
+¡Si estás interesado en colaborar en algún proyecto no dudes en ponerte en contacto conmigo!
 
 [![Correo Electrónico](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomasrom.dev@gmail.com)  
 <a href="https://www.linkedin.com/in/tom%C3%A1s-romero-07b117212/" target="_blank">
