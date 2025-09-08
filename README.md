@@ -1,5 +1,9 @@
 Estudiante avanzado de la **Tecnicatura Universitaria en Programación (UTN FRA)**, con formación en **desarrollo Full Stack** utilizando tecnologías como **React, Angular y Node.js**.  
 
+<a href="https://tomasrome.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Web">
+  </a>
+
 
 ### Lenguajes
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -34,9 +38,6 @@ Estudiante avanzado de la **Tecnicatura Universitaria en Programación (UTN FRA)
   </a>
   <a href="https://www.linkedin.com/in/tom%C3%A1s-romero-07b117212/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://tomasrome.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Web">
   </a>
 </p>
 
