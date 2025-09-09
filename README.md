@@ -1,3 +1,5 @@
+<img src="banner.gif" alt="Portfolio Web">
+
 Estudiante avanzado de la **Tecnicatura Universitaria en Programación (UTN FRA)**, con formación en **desarrollo Full Stack** utilizando tecnologías como **React, Angular y Node.js**.  
 
 <a href="https://tomasrome.github.io/" target="_blank">
@@ -6,19 +8,21 @@ Estudiante avanzado de la **Tecnicatura Universitaria en Programación (UTN FRA)
 
 
 ### Lenguajes
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=data:image/svg+xml;base64,<CÓDIGO_BASE64>&logoColor=white)
 
+<p align="start">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px"> 
+   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/css3.svg" alt="html" style="vertical-align:top; margin:4px">  
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/java.svg" alt="python" style="vertical-align:top; margin:4px">
+  
 
-
+</p>
 
 ### Frameworks y Bibliotecas
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/nodejs.svg" alt="react" style="vertical-align:top; margin:4px">
 
 ### Bases de Datos
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=sql&logoColor=white)
@@ -26,7 +30,13 @@ Estudiante avanzado de la **Tecnicatura Universitaria en Programación (UTN FRA)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
+<br>
+
 ### [![Codewars Badge](https://www.codewars.com/users/tomasrome/badges/large)](https://www.codewars.com/users/tomasrome)
+<br>
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 
 ## 📫 Contáctame  
 
@@ -34,11 +44,12 @@ Estudiante avanzado de la **Tecnicatura Universitaria en Programación (UTN FRA)
 
 <p>
   <a href="mailto:tomasrom.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo Electrónico">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/gmail.svg" alt="Correo Electrónico">
   </a>
   <a href="https://www.linkedin.com/in/tom%C3%A1s-romero-07b117212/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg" alt="LinkedIn">
   </a>
 </p>
+
 
 
