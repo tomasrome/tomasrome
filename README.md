@@ -15,16 +15,22 @@ Estudiante avanzado de la **Tecnicatura Universitaria en Programación (UTN FRA)
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/java.svg" alt="python" style="vertical-align:top; margin:4px">
-  
-
 </p>
 
 ### Frameworks y Bibliotecas
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+<p align="start">
+<img src="assets/express.png" alt="react" style="vertical-align:top; height:32px; margin:4px">
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/nodejs.svg" alt="react" style="vertical-align:top; margin:4px">
+</p>
 
 ### Bases de Datos
+
+<p align="start">
+<img src="assets/sql.png" alt="react" style="vertical-align:top; height:32px; margin:4px">
+<img src="assets/mysql.png" alt="react" style="vertical-align:top; height:32px; margin:4px">
+<img src="assets/mongodb.png" alt="react" style="vertical-align:top; height:32px; margin:4px">
+</p>
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=sql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
