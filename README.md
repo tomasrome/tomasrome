@@ -3,7 +3,7 @@
 Estudiante avanzado de la **Tecnicatura Universitaria en Programación (UTN FRA)**, con formación en **desarrollo Full Stack** utilizando tecnologías como **React, Angular y Node.js**.  
 
 <a href="https://tomasrome.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Web">
+    <img src="assets/portfolio.png" alt="react" style="vertical-align:top; height:32px; margin:4px">
   </a>
 
 
@@ -19,9 +19,11 @@ Estudiante avanzado de la **Tecnicatura Universitaria en Programación (UTN FRA)
 
 ### Frameworks y Bibliotecas
 <p align="start">
-<img src="assets/express.png" alt="react" style="vertical-align:top; height:32px; margin:4px">
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
+<img 
+ <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/angular.svg" alt="react" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/nodejs.svg" alt="react" style="vertical-align:top; margin:4px">
+<img src="assets/express.png" alt="react" style="vertical-align:top; height:32px; margin:4px">
 </p>
 
 ### Bases de Datos
@@ -31,10 +33,6 @@ Estudiante avanzado de la **Tecnicatura Universitaria en Programación (UTN FRA)
 <img src="assets/mysql.png" alt="react" style="vertical-align:top; height:32px; margin:4px">
 <img src="assets/mongodb.png" alt="react" style="vertical-align:top; height:32px; margin:4px">
 </p>
-![SQL](https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=sql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 <br>
 
@@ -56,6 +54,7 @@ Estudiante avanzado de la **Tecnicatura Universitaria en Programación (UTN FRA)
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg" alt="LinkedIn">
   </a>
 </p>
+
 
 
 
