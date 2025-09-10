@@ -32,6 +32,7 @@ Estudiante avanzado de la **Tecnicatura Universitaria en Programación (UTN FRA)
 <img src="assets/sql.png" alt="sql" style="vertical-align:top; height:32px; margin:4px">
 <img src="assets/mysql.png" alt="mysql" style="vertical-align:top; height:32px; margin:4px">
 <img src="assets/mongodb.png" alt="mongodb" style="vertical-align:top; height:32px; margin:4px">
+<img src="assets/fire3.png" alt="firebase" style="vertical-align:top; height:32px; margin:4px">
 </p>
 
 <br>
