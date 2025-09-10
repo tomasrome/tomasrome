@@ -1,11 +1,20 @@
-<img src="banner.gif" alt="Banner">
+<div align="center">
+  <img src="banner.gif" alt="Banner" width="100%">
+</div>
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=600&height=70&lines=Software+Developer;Estudiante+de+la+UTN+FRA)](https://git.io/typing-svg)
+
+</div>
 
 Estudiante avanzado de la **Tecnicatura Universitaria en Programación (UTN FRA)**, con formación en **desarrollo Full Stack** utilizando tecnologías como **React, Angular y Node.js**.  
 
-<a href="https://tomasrome.github.io/" target="_blank">
-    <img src="assets/port.png" alt="Mi Portfolio" style="vertical-align:top; height:32px; margin:4px">
+<a href="https://tomasrome.github.io/" target="_blank" >
+    <img src="assets/port.png" alt="Mi Portfolio"  style="vertical-align:top; height:32px; margin:4px ">
   </a>
 
+---
 
 ### Lenguajes
 
@@ -42,19 +51,28 @@ Estudiante avanzado de la **Tecnicatura Universitaria en Programación (UTN FRA)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+## 📫 ¡Conectemos!
 
-## 📫 Contáctame  
-
+<div align="center">
+  
 ¡Si estás interesado en colaborar en algún proyecto no dudes en ponerte en contacto conmigo!  
 
-<p>
-  <a href="mailto:tomasrom.dev@gmail.com">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/gmail.svg" alt="Correo Electrónico">
-  </a>
-  <a href="https://www.linkedin.com/in/tom%C3%A1s-romero-07b117212/" target="_blank">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg" alt="LinkedIn">
-  </a>
-</p>
+<br>
+
+<a href="mailto:tomasrom.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://www.linkedin.com/in/tomás-romero-07b117212/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://tomasrome.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://github.com/tomasrome" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
 
 
 
